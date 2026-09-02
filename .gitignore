@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+data/sessions/
+data/banks/
+.pytest_cache/
